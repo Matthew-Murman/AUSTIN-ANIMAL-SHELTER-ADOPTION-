@@ -1,4 +1,5 @@
 ## Austin Animal Shelter Machine Learning
+Data obtained from the [Austin Texas Animal Shelter](https://data.austintexas.gov/Health-and-Community-Services/Austin-Animal-Center-Outcomes/9t4d-g238).
 
 
 ## Libraries & Versions Used
@@ -15,7 +16,7 @@
 
 
 ## Description
-Data obtained from the [Austin Texas Animal Shelter](https://data.austintexas.gov/Health-and-Community-Services/Austin-Animal-Center-Outcomes/9t4d-g238).
+Performed Logistic Regression, Support Vector Classification, and Random Forest Classification in order to predict whether an animal would be adopted.
 
 
 
