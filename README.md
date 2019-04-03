@@ -16,7 +16,7 @@ Data obtained from the [Austin Texas Animal Shelter](https://data.austintexas.go
 
 
 ## Description
-Performed Logistic Regression in order to predict whether an animal would be adopted.
+Compared several machine learning models to most effectively predict animal adoption
 
 
 
