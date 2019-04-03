@@ -12,7 +12,7 @@ Data obtained from the [Austin Texas Animal Shelter](https://data.austintexas.go
 * Beautifulsoup4 - version 4.6.3
 * Json - version 2.6.0
 * Selenium - version 3.141.0
-* Scikitlearn - 0.20.1
+* Scikitlearn - version 0.20.1
 
 
 ## Description
