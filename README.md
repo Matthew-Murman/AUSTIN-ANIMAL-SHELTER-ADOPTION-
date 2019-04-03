@@ -16,7 +16,7 @@ Data obtained from the [Austin Texas Animal Shelter](https://data.austintexas.go
 
 
 ## Description
-Performed Logistic Regression, Support Vector Classification, and Random Forest Classification in order to predict whether an animal would be adopted.
+Performed Logistic Regression in order to predict whether an animal would be adopted.
 
 
 
